@@ -9,10 +9,10 @@
 </ul>
 
 <p> Aplicação em funcionamento: </p>
-<img src='./Screenshtos/1.png'> 
-<img src='./Screenshtos/2.png'> 
-<img src='./Screenshtos/3.png'> 
-<img src='./Screenshtos/4.png'> 
+<img src='https://github.com/gabrielnov/AdivinhaGame/tree/main/Screenshots/1.png'> 
+<img src='https://github.com/gabrielnov/AdivinhaGame/tree/main/Screenshots/2.png'> 
+<img src='https://github.com/gabrielnov/AdivinhaGame/tree/main/Screenshots/3.png'> 
+<img src='https://github.com/gabrielnov/AdivinhaGame/tree/main/Screenshots/4.png'> 
 
 <p> Rotas da API: </p>
 <ul> 
