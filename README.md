@@ -9,7 +9,7 @@
 </ul>
 
 <p> Aplicação em funcionamento: </p>
-<img src='https://github.com/gabrielnov/AdivinhaGame/tree/main/Screenshots/1.png'> 
+<img src='https://github.com/gabrielnov/AdivinhaGame/blob/main/Screenshots/1.PNG'> 
 <img src='https://github.com/gabrielnov/AdivinhaGame/tree/main/Screenshots/2.png'> 
 <img src='https://github.com/gabrielnov/AdivinhaGame/tree/main/Screenshots/3.png'> 
 <img src='https://github.com/gabrielnov/AdivinhaGame/tree/main/Screenshots/4.png'> 
