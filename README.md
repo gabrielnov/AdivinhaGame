@@ -12,7 +12,6 @@
 <img src='https://github.com/gabrielnov/AdivinhaGame/blob/main/Screenshots/1.PNG'> 
 <img src='https://github.com/gabrielnov/AdivinhaGame/blob/main/Screenshots/2.PNG'> 
 <img src='https://github.com/gabrielnov/AdivinhaGame/blob/main/Screenshots/3.PNG'> 
-<img src='https://github.com/gabrielnov/AdivinhaGame/blob/main/Screenshots/4.PNG'> 
 
 <p> Rotas da API: </p>
 <ul> 
@@ -24,5 +23,4 @@
 <p> O que falta: </p>
 <ul> 
 <li> Ordenação das partidas passadas por n° tentativas e tempo </li>
-<li> Exibição do ranking </li>
 </ul>
