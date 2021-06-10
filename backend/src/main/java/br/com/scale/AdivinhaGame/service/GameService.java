@@ -21,10 +21,10 @@ public class GameService {
     int tentativas = 0;
     String jogador;
     int numeroAleatorio;
-
+    long tempoInicial = System.currentTimeMillis();
+    long tempoTotal;
 
     public int gerarNovoNumero(int numeroAtual, String status) {
-        long tempoInicial = System.currentTimeMillis();
 
         if (status.equals("MAIOR")) {
             min = numeroAtual + 1;
@@ -33,9 +33,10 @@ public class GameService {
             max = numeroAtual - 1;
         }
         if (status.equals("IGUAL")) {
-            long tempoTotal = System.currentTimeMillis() - tempoInicial;
+            tempoTotal = System.currentTimeMillis() - tempoInicial;
             finalizarJogo(numeroAtual, jogador, tentativas, tempoTotal);
         }
+
         try {
             numeroAleatorio = random.nextInt((max - min) + 1) + min;
         }catch(BeanCreationException | IllegalArgumentException ex){
@@ -45,6 +46,7 @@ public class GameService {
         System.out.println("Min: " + min + " max: " + max);
         System.out.println("numero atual: " + numeroAtual + " Status: " + status);
         System.out.println("Numero gerado agora: " + numeroAleatorio);
+        System.out.println("Tempo total: " + tempoTotal);
 
         tentativas++;
         numerosTentados.add(numeroAleatorio);
