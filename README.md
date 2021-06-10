@@ -10,8 +10,8 @@
 
 <p> Aplicação em funcionamento: </p>
 <img src='https://github.com/gabrielnov/AdivinhaGame/blob/main/screenshots/1.png'> 
-<img src='https://github.com/gabrielnov/AdivinhaGame/blob/main/Screenshots/2.PNG'> 
-<img src='https://github.com/gabrielnov/AdivinhaGame/blob/main/Screenshots/3.PNG'> 
+<img src='https://github.com/gabrielnov/AdivinhaGame/blob/main/screenshots/2.PNG'> 
+<img src='https://github.com/gabrielnov/AdivinhaGame/blob/main/screenshots/3.PNG'> 
 
 <p> Rotas da API: </p>
 <ul> 
