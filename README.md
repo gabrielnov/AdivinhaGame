@@ -1,12 +1,5 @@
 <h1> AdivinhaGame </h1>
 
-<p> Para rodar o projeto você deve: </p>
-
-<ul>
-<li> Rodar a classe \backend\src\main\java\br\com\scale\AdivinhaGame\AdivinhaGameApplication.java</li>
-<li> Abrir um terminal e navegar até a pasta \frontend\adivinhagame </li>
-<li> rodar o comando  npm start </li>
-</ul>
 
 <p> Aplicação em funcionamento: </p>
 <img src='https://github.com/gabrielnov/AdivinhaGame/blob/main/screenshots/1.png'> 
