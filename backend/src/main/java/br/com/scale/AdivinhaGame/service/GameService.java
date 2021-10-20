@@ -42,12 +42,7 @@ public class GameService {
         }catch(BeanCreationException | IllegalArgumentException ex){
             return 9999;
         }
-
-        System.out.println("Min: " + min + " max: " + max);
-        System.out.println("numero atual: " + numeroAtual + " Status: " + status);
-        System.out.println("Numero gerado agora: " + numeroAleatorio);
-        System.out.println("Tempo total: " + tempoTotal);
-
+        
         tentativas++;
         numerosTentados.add(numeroAleatorio);
         return numeroAleatorio;
